@@ -1,1 +1,1 @@
-# ColumbiaX-edX-A4-probabilistic-matrix-factorization-PMF-algorithm-for-collaborative-filtering-
+Probabilistic Matrix Factorization PMF algo for collaborative filtering.
